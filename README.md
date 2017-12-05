@@ -17,3 +17,7 @@ input.txt:
 16655     #e
 #the following is the content to be encrypted
 What is friendship? Friendship is a bridge constructed by you and me
+
+The program will use input.txt and key.txt to produce the encrypted file output.txt.
+
+Decrypting:
