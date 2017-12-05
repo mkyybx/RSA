@@ -28,4 +28,4 @@ input.txt:
 #the following is the encrypted contents
 0264278215930529024879372036379227861703302256081934124712549311304544871705317202679727032071711793272413771407
 ```
-You can see the .txt files for the sample.
+You can see the .txt files for the sample, and d means the input and output for the decryption program.
